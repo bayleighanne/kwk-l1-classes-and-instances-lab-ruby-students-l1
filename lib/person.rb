@@ -10,4 +10,4 @@ def name
 adele_goldberg = person.new 
 adele_goldberg.new = "adele_goldberg"
 
-puts adele_goldberg
+puts adele_goldberg.new
