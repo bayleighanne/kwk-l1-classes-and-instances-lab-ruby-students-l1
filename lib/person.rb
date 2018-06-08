@@ -1,1 +1,2 @@
-# person.rb
+Class Person
+
