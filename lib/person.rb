@@ -11,4 +11,8 @@ adele_goldberg = Person.new
 adele_goldberg.name = "adele_goldberg"
 
 puts adele_goldberg.name
-end
+
+alan_kay = Person.new 
+alan_kay.name = "alan_kay"
+
+puts alan_kay.name 
