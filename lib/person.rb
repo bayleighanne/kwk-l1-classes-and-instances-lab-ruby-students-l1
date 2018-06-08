@@ -1,3 +1,3 @@
 Class Person
-def name 
+def name=
 
