@@ -11,3 +11,4 @@ adele_goldberg = person.new
 adele_goldberg.name = "adele_goldberg"
 
 puts adele_goldberg.name
+end
