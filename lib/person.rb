@@ -1,2 +1,3 @@
 Class Person
+def name 
 
