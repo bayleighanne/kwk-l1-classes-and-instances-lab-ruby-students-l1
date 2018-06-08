@@ -9,5 +9,6 @@ end
 end 
 
 adele_goldberg = person.new 
+adele_goldberg.new = "adele_goldberg"
 
 
