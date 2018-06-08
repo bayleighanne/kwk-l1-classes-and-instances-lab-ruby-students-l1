@@ -22,3 +22,5 @@ lassie = Dog.new
 lassie.name = "lassie"
 
 puts lassie.name 
+end 
+
