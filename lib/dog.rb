@@ -17,3 +17,8 @@ snoopy = Dog.new
 snoopy.name = "snoopy"
 
 puts snoopy.name 
+
+lassie = Dog.new 
+lassie.name = "lassie"
+
+puts lassie.name 
