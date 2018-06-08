@@ -8,5 +8,6 @@ def name
 end 
 end 
 
-adele_goldberg = person_name
+adele_goldberg = person.new 
+
 
