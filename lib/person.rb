@@ -16,3 +16,4 @@ alan_kay = Person.new
 alan_kay.name = "alan_kay"
 
 puts alan_kay.name 
+end 
