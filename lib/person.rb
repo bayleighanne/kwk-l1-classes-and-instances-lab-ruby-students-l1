@@ -5,7 +5,7 @@ end
 
 def name 
   @this_persons_name
-end 
+  end 
 end 
 
 adele_goldberg = person.new 
