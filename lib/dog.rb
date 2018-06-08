@@ -3,3 +3,4 @@ class Dog
     "this_dogs_name" = "fido"
   end 
   
+  def name 
